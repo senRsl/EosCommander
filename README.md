@@ -2088,7 +2088,7 @@ warning: transaction executed locally, but may not be confirmed by the network y
 SENRSL:docker senrsl$ 
 ```
 网页上多了这么两条
-![抵押CPU和NET](/Users/senrsl/temp/EosCommander/doc/屏幕快照2018-12-13下午55626.png)
+![抵押CPU和NET](doc/屏幕快照2018-12-13下午55626.png)
 
 2. 购买出售RAM
 - 购买
