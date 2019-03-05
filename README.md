@@ -1600,7 +1600,7 @@ SENRSL:docker senrsl$
 ```
 然后去看 网页，会发现多了好几条
 
-![创建账户](doc/屏幕快照 2018-12-13 下午5.29.04.png)
+![创建账户](doc/屏幕快照2018-12-13下午52904.png)
 
 
 
@@ -2088,7 +2088,7 @@ warning: transaction executed locally, but may not be confirmed by the network y
 SENRSL:docker senrsl$ 
 ```
 网页上多了这么两条
-![抵押CPU和NET](/Users/senrsl/temp/EosCommander/doc/屏幕快照 2018-12-13 下午5.56.26.png)
+![抵押CPU和NET](/Users/senrsl/temp/EosCommander/doc/屏幕快照2018-12-13下午55626.png)
 
 2. 购买出售RAM
 - 购买
@@ -2119,7 +2119,7 @@ executed transaction: 4f64aa71f4fa75bd3b4d34d606c9fb8cc4cf431daa4e6cf1fac26cf022
 warning: transaction executed locally, but may not be confirmed by the network yet         ] 
 SENRSL:docker senrsl$ 
 ```
-![购买出售RAM](doc/屏幕快照 2018-12-13 下午6.02.41.png)
+![购买出售RAM](doc/屏幕快照2018-12-13下午60241.png)
 
 ### 交易
 ```shell
@@ -2164,7 +2164,7 @@ SENRSL:docker senrsl$
 ```
 
 这次就一条
-![发起转账](doc/屏幕快照 2018-12-13 下午6.12.59.png)
+![发起转账](doc/屏幕快照2018-12-13下午61259.png)
 
 
 
