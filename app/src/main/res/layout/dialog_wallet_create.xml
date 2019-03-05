@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content" >
 
+
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,6 +18,27 @@
             android:paddingTop="24dp"
             android:orientation="vertical"
             android:background="@color/colorWhite">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/colorLightGray"
+                android:background="@drawable/round_box_input"
+                android:padding="16dp"
+                android:text="5JhmNMUaJ4J3Qzba7ixW2ocEhoxEQFf6tr9UW2KVrjwckwFQpXJ"
+                />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/colorLightGray"
+                android:background="@drawable/round_box_input"
+                android:padding="16dp"
+                android:text="5JhBpkdyfyZdas1mnUJdQ85wgFQ69N2jVvGXn665FUWkFspy8de"
+                />
 
             <TextView
                 android:layout_width="match_parent"

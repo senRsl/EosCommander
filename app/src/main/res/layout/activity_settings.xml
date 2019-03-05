@@ -75,6 +75,7 @@
                 android:background="@drawable/round_box_input"
                 android:padding="16dp"
                 android:inputType="number"
+                android:text="8880"
                 android:hint="@string/nodeos_port" />
 
             <EditText
@@ -89,6 +90,7 @@
                 android:textColorHint="@color/colorLightGray"
                 android:textColor="@color/colorPrimary"
                 android:background="@drawable/round_box_input"
+                android:text="api.kylin.eosbeijing.one"
                 android:padding="16dp"
                 android:hint="@string/nodeos_ip" />
 

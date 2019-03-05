@@ -26,8 +26,8 @@
     <string name="input_account">Input account</string>
     <string name="account_info_title_fmt">%s: %s</string>
     <string name="create_account">Create account</string>
-    <string name="creator_name">Creator name</string>
-    <string name="new_account_name">New account name</string>
+    <string name="creator_name">Creator name必须是一个存在的账户来创建新账户</string>
+    <string name="new_account_name">New account name12位好像是有很多规则如senrsl111111是可以的</string>
     <string name="owner_public_key">Owner public key</string>
     <string name="active_public_key">Active public key</string>
     <string name="create">Create</string>
@@ -130,7 +130,7 @@
     <string name="upper_bound">upper bound</string>
     <string name="limit">limit</string>
 
-    <string name="stake_net">EOS delegated for net</string>
+    <string name="stake_net">EOS delegated for net下面这几个必须有四位小数</string>
     <string name="stake_cpu">EOS delegated for CPU</string>
     <string name="buy_ram_eos">amount of EOS to buy ram for new account</string>
 

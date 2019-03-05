@@ -99,7 +99,7 @@ public class CreateEosAccountDialog extends BaseDialog implements CreateEosAccou
     @Override
     protected void setUpView(View view) {
 
-        mEtCreator      = view.findViewById( R.id.et_creator_name);
+        mEtCreator = view.findViewById( R.id.et_creator_name);
         mEtNewAccount   = view.findViewById( R.id.et_new_account);
         mEtNewAccount.setOnEditorActionListener( (textView, actionId, keyEvent) -> {
                     if (EditorInfo.IME_ACTION_DONE == actionId) {
@@ -137,7 +137,7 @@ public class CreateEosAccountDialog extends BaseDialog implements CreateEosAccou
         });
 
 
-        UiUtils.setupAccountHistory( mEtCreator );
+        UiUtils.setupAccountHistory(mEtCreator);
     }
 
     private void onClickCreate() {
@@ -161,7 +161,7 @@ public class CreateEosAccountDialog extends BaseDialog implements CreateEosAccou
 
     @Override
     public void showCreator( String creator ) {
-        UiUtils.setTextAndMoveCursorToEnd( mEtCreator, creator );
+        UiUtils.setTextAndMoveCursorToEnd(mEtCreator, creator );
     }
 
     @Override
